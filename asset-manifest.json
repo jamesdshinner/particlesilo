@@ -1,31 +1,24 @@
 {
   "files": {
-    "main.css": "/particlesilo/static/css/main.05ddac1d.chunk.css",
-    "main.js": "/particlesilo/static/js/main.190845a4.chunk.js",
-    "main.js.map": "/particlesilo/static/js/main.190845a4.chunk.js.map",
-    "runtime-main.js": "/particlesilo/static/js/runtime-main.251a10ce.js",
-    "runtime-main.js.map": "/particlesilo/static/js/runtime-main.251a10ce.js.map",
-    "static/js/2.50542d6b.chunk.js": "/particlesilo/static/js/2.50542d6b.chunk.js",
-    "static/js/2.50542d6b.chunk.js.map": "/particlesilo/static/js/2.50542d6b.chunk.js.map",
-    "static/js/3.6b6373ab.chunk.js": "/particlesilo/static/js/3.6b6373ab.chunk.js",
-    "static/js/3.6b6373ab.chunk.js.map": "/particlesilo/static/js/3.6b6373ab.chunk.js.map",
+    "main.css": "/particlesilo/static/css/main.ff2a87d3.chunk.css",
+    "main.js": "/particlesilo/static/js/main.e3a67331.chunk.js",
+    "main.js.map": "/particlesilo/static/js/main.e3a67331.chunk.js.map",
+    "runtime-main.js": "/particlesilo/static/js/runtime-main.3f7246ec.js",
+    "runtime-main.js.map": "/particlesilo/static/js/runtime-main.3f7246ec.js.map",
+    "static/js/2.cd8e3394.chunk.js": "/particlesilo/static/js/2.cd8e3394.chunk.js",
+    "static/js/2.cd8e3394.chunk.js.map": "/particlesilo/static/js/2.cd8e3394.chunk.js.map",
+    "static/js/3.f5c9f26f.chunk.js": "/particlesilo/static/js/3.f5c9f26f.chunk.js",
+    "static/js/3.f5c9f26f.chunk.js.map": "/particlesilo/static/js/3.f5c9f26f.chunk.js.map",
     "index.html": "/particlesilo/index.html",
-    "static/css/main.05ddac1d.chunk.css.map": "/particlesilo/static/css/main.05ddac1d.chunk.css.map",
-    "static/js/2.50542d6b.chunk.js.LICENSE.txt": "/particlesilo/static/js/2.50542d6b.chunk.js.LICENSE.txt",
-    "static/media/Background.9cd3362e.png": "/particlesilo/static/media/Background.9cd3362e.png",
-    "static/media/DataVisChartsandPlots.06c769da.png": "/particlesilo/static/media/DataVisChartsandPlots.06c769da.png",
-    "static/media/InteractiveActivitiesandWorkshops.6cc47f28.png": "/particlesilo/static/media/InteractiveActivitiesandWorkshops.6cc47f28.png",
-    "static/media/PaperDigest.ccb218aa.png": "/particlesilo/static/media/PaperDigest.ccb218aa.png",
-    "static/media/ShortVideosAnimations.4e37f01f.png": "/particlesilo/static/media/ShortVideosAnimations.4e37f01f.png",
-    "static/media/TalksandPresentations.d3f99077.png": "/particlesilo/static/media/TalksandPresentations.d3f99077.png",
-    "static/media/logowhite.27769fb7.svg": "/particlesilo/static/media/logowhite.27769fb7.svg",
-    "static/media/royaltyfreeimage.69bdcbb2.png": "/particlesilo/static/media/royaltyfreeimage.69bdcbb2.png",
-    "static/media/videoplayback_1.df62fb50.mp4": "/particlesilo/static/media/videoplayback_1.df62fb50.mp4"
+    "static/css/main.ff2a87d3.chunk.css.map": "/particlesilo/static/css/main.ff2a87d3.chunk.css.map",
+    "static/js/2.cd8e3394.chunk.js.LICENSE.txt": "/particlesilo/static/js/2.cd8e3394.chunk.js.LICENSE.txt",
+    "static/media/logo.b1821787.svg": "/particlesilo/static/media/logo.b1821787.svg",
+    "static/media/royaltyfreeimage.69bdcbb2.png": "/particlesilo/static/media/royaltyfreeimage.69bdcbb2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.251a10ce.js",
-    "static/js/2.50542d6b.chunk.js",
-    "static/css/main.05ddac1d.chunk.css",
-    "static/js/main.190845a4.chunk.js"
+    "static/js/runtime-main.3f7246ec.js",
+    "static/js/2.cd8e3394.chunk.js",
+    "static/css/main.ff2a87d3.chunk.css",
+    "static/js/main.e3a67331.chunk.js"
   ]
 }
