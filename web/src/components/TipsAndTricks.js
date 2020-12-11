@@ -1,5 +1,6 @@
 import { Collapse, Typography } from "antd";
 import { CaretRightOutlined } from "@ant-design/icons";
+import PlainBackground from "../assets/Images Website/Background_old.png";
 
 const { Panel } = Collapse;
 const { Title } = Typography;
@@ -49,7 +50,7 @@ const data = [
 
 export const TipsTricks = () => {
   return (
-    <div className="container-card">
+    <div className="container-card" style={{background:`url(${PlainBackground})`, minHeight:"80vh"}}>
       <Title> 
         Science Communication Tips and Tricks
       </Title>
@@ -73,7 +74,7 @@ export const TipsTricks = () => {
           header={<b style={{color:"white"}}>{item.question}</b>}
           key={index}
           className="site-collapse-custom-panel"
-          style={{textAlign:"left"}}
+          style={{textAlign:"left", background:"none", color:"white"}}
         >
           <p style={{whiteSpace:"pre-line", color:"white"}}>{item.answer}</p>
         </Panel>
